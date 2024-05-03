@@ -40,7 +40,7 @@
     },
     "dependencies": {
         "@chakra-ui/react": "^2.3.6",
-        "@dessert-box/react": "^0.4.0",
+        "@dessert-box/react": "^0.7.5",
         "@emotion/react": "^11.10.5",
         "@emotion/styled": "^11.10.5",
         "@monaco-editor/react": "^4.4.6",
