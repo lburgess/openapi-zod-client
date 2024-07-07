@@ -31,7 +31,7 @@
         "openapi3-ts": "3.1.0",
         "pastable": "^2.2.1",
         "prettier": "^2.7.1",
-        "tanu": "^0.1.13",
+        "tanu": "^0.2.0",
         "ts-pattern": "^5.0.1",
         "whence": "^2.0.0",
         "zod": "^3.19.1"
